@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicKey</key>
+	<string>-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEApCiJfUznlF5sScYfKbNuWAo5qTyInsUyc75JAd6TQEKXDdoSg/NT
+62cFbhH6rT1K9e1KHjPcPNf06UAqJfz15ULG3mt2pTJHTT99dm/GhsoY7gSpqi0X
+DM+TdDNAxyVPalyomrB+DAYNyupS1rFTSJt0A2ncagMMrg1WakSif+fh5TPuDuZv
+F5LGy5+Me2CXoRC2mEh3tji5y1rb//YAiLqM1n+QbynxcGit3j+S0CLrvi2qZl13
+6Syg3IphocdG/KFR9eXeCiJ3p2J7gcBzkYzvE4n5mnAwyUKxNq4Y8EnFM3+fWcQi
+2TYrIGmXj3NaHYeUQwgAI5D6N5+7LCXWWwIDAQAB
+-----END RSA PUBLIC KEY-----</string>
+	<key>privateKey</key>
+	<string>-----BEGIN RSA PRIVATE KEY-----
+MIIEogIBAAKCAQEApCiJfUznlF5sScYfKbNuWAo5qTyInsUyc75JAd6TQEKXDdoS
+g/NT62cFbhH6rT1K9e1KHjPcPNf06UAqJfz15ULG3mt2pTJHTT99dm/GhsoY7gSp
+qi0XDM+TdDNAxyVPalyomrB+DAYNyupS1rFTSJt0A2ncagMMrg1WakSif+fh5TPu
+DuZvF5LGy5+Me2CXoRC2mEh3tji5y1rb//YAiLqM1n+QbynxcGit3j+S0CLrvi2q
+Zl136Syg3IphocdG/KFR9eXeCiJ3p2J7gcBzkYzvE4n5mnAwyUKxNq4Y8EnFM3+f
+WcQi2TYrIGmXj3NaHYeUQwgAI5D6N5+7LCXWWwIDAQABAoH/GrjxiV9EpwwwDLg+
+Ji2hnvxzn/R5YxX6uAu59haOiRZtTEblL6VSi7uSVbvwVoxK638DjIPVAqTWpywo
+1OGxrXafErqAi2j8r8rALsYtGCyKAbemeSd6o4uPWzvDMGk2ButshuZ9SruxjYrg
+rWCtxYyDf/Xa+z0bWyUZ0f5+03fDNa5V2lEr1yQ2zLU1driwaZcRr7ms7FaeYRhI
+H3ZfB+WTi08hNcF3Hx9D27UJao1LFqstnKxw3Cx4tLOO3v6o4+S1uZTjYUiW7pvE
+VLV+3gaBLgPjOFgMqYqTzdIFsN+iwO8PIYZLldSKpqBiGSBpTvscL4Np4ww+HZ+g
+RdQBAoGBANTUAwYa4g7LGqVS4dV7ND60gVwoudtlhCQWeM51JjJvgz7p5unsjNVu
+j6jSa9EhoiA7uAUzWHB0+Nnh8r1sI4tdWDievQr2cttyyfHNwKObdTZEhalQCgf4
+2ihok0VbzjyWy48kLjjbCO9Xlo8uecQ/2KAfpeIwr+3PYR8k4TdbAoGBAMV1JGfv
+AZh/tDkm2r95dJ9ve7ikmMx7/1wkdvC/yMIKyEKQp1DUbhXdpL+Wh0z1eu6Qe8eU
+trnVOOLsXdr9FnFb80wTrTT5ToMPpkwE0j3g9vkdkC+g/BKV/mFzJu0l6/y8TqnD
+LN7pmQWt1zYS/7uPrWKRIuLzDaK4jKt1bw0BAoGBAM7nolzwC674E1qAPh8N3NfN
+IinXSgCaK6Ht2tpUF6NWt9CVErF+D9h62Nz2XGz+9p/BjwA3T5ZckYU43YT7uX6G
+a/r3j681sqnXaa5TKiGkQ4pTiWH19xqS+nvoVqxKOTC8JP9u3CTYBFKy4yMluqlo
+rI/W1K0WSiK2xqPBddYbAoGAEeZVn4peFan193xbNiJXfSCJEaryIw9Wjc7MbXSl
+SVna35XnZP9s31SRW8DUkRhrxXaZkfUcP2ph1shglbp9r1cLjij2eafkAyOHCrsh
+J/TdzqVsbbTlRPYN8l2S+MqIQwf7BY6o4ahBc+9XZBKC1kjnCdloVTR9VvPt5Jkn
+sQECgYEAvmmdBbiWJhQUUcisP4xQdX5xWsOAb3RmciT0u8se/RoaYNkS0pHskFhI
+81hoUplEpp9kasOiWiHDLDk/zFIFtJrPFNrVYiaec0MvJ+RpzasOkJ+IuooBTTVK
+Piu+hQrN1cx+/lfbsW14gXAPgqK3ZjOv3zueZ0EDz7ds1jdkLgc=
+-----END RSA PRIVATE KEY-----</string>
+</dict>
+</plist>
