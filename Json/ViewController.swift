@@ -64,8 +64,8 @@ class ViewController: UIViewController {
                 newDic["url"] = url_jiami
                 
                 
-                print("cover_jiami====\(cover_jiami)")
-                print("url_jiami====\(url_jiami)")
+                print("cover_jiami:\(cover_jiami)")
+                print("url_jiami:\(url_jiami)")
                 dataArr.append(newDic)
             }
 //            print(jsonData)
@@ -74,11 +74,13 @@ class ViewController: UIViewController {
         }
         
         // 创建 JSON 数据
-        let jsonData = try? JSONSerialization.data(withJSONObject: dataArr, options: [])
+        let jsonData = try? JSONSerialization.data(withJSONObject: dataArr, options: [.withoutEscapingSlashes])
+        
+        
         // 本地文件路径
         let documentsDirectory = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
         let fileURL = documentsDirectory.appendingPathComponent("data.json")
-//        print(fileURL)
+        print(fileURL)
         // 保存到本地
         do {
             try jsonData!.write(to: fileURL)
